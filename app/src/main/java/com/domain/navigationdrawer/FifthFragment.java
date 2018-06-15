@@ -74,6 +74,8 @@ public class FifthFragment extends Fragment {
             }
         });
         new Thread(new ChatThread()).start();
+
+        //
     }
 
     private void sendMessage(){

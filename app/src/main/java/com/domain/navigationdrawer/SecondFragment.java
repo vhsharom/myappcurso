@@ -43,7 +43,7 @@ public class SecondFragment extends Fragment implements OnMapReadyCallback {
     private GoogleMap googleMap;
 
     public SecondFragment() {
-        // Required empty public constructor
+
     }
 
 
